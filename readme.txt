@@ -19,3 +19,13 @@ poner este link en el navegador:
 http://192.168.91.13:8080/ 
 
 http://127.0.0.1:8080/
+
+
+git:comandos
+
+git status  (Es para ver los cambios realizados)
+git add.    (para agregar los cambios)
+git commit -m "se agrego hola mundo en el html index" (aqui comentamos los cambios)
+git push -u origin main    (aqui subimos los cambios al main de github la cuenta)
+
+
